@@ -3,7 +3,7 @@
 
 
    - 👋 I’m @sophrosyne42
-   - 👀 I’m interested in Linux, open source, functional programming, and cool math stuff like linear algebra.
+   - 👀 I’m interested in Linux, open source, functional programming, and cool math stuff like category theory and labda calculus.
    - Looking to explore a few topics right new, including: low-level programming, compilers, and cybersecurity.
    - 🌱 I’m currently learning all sorts of stuff, going to school for a CS degree 😄
 
